@@ -11,7 +11,7 @@ categories = ["encoding", "parsing", "data-structures"]
 
 [dependencies]
 facet-core = { version = "0.28.0" }
-facet-reflect = { version = "0.28.0" }
+facet-reflect = { version = "0.29.0" }
 form_urlencoded = "1.2.1"
 log = "0.4.27"
 
