@@ -10,7 +10,7 @@ keywords = ["urlencoded", "form", "serialization", "deserialization", "facet"]
 categories = ["encoding", "parsing", "data-structures"]
 
 [dependencies]
-facet-core = { version = "0.30" }
+facet-core = { version = "0.31" }
 facet-reflect = { version = "0.30" }
 form_urlencoded = "1.2.1"
 log = "0.4.27"
